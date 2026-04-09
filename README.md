@@ -1,9 +1,13 @@
-# Distilloon — AI-powered video summaries & tags
+# Distilloon: AI-powered video summaries & tags
 
 Distilloon is an interactive AI-powered tool that distills YouTube videos into 
 their core meaning — surfaced as floating balloons carrying keywords and a summary.
 
-![Idle state: a black-and-white carousel with colorful balloons floating upward](./public/carousel.png)
+<p align="center">
+  <img src="distilloon-1.png" width="300" alt="App Screenshot" />
+  <img src="distilloon-2.png" width="300" alt="App Screenshot" />
+  <img src="distilloon-3.png" width="300" alt="App Screenshot" />
+</p>
 
 ---
 
@@ -55,7 +59,7 @@ The same 5-state visual grammar could be applied to other YouTube AI features:
 
 - **Next.js 14** (App Router)
 - **React Three Fiber** + **Three.js** — 3D balloon particle system
-- **Gemini API** (`gemini-2.0-flash`) — transcript summarization and keyword extraction
+- **Gemini API** (`gemini-2.5-flash`) — transcript summarization and keyword extraction
 - **youtube-transcript** — transcript fetching
 - **TypeScript**
 - **Vercel** — deployment
