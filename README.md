@@ -4,10 +4,12 @@ Distilloon is an interactive AI-powered tool that distills YouTube videos into
 their core meaning — surfaced as floating balloons carrying keywords and a summary.
 
 <p align="center">
-  <img src="distilloon-1.png" height="225" alt="App Screenshot" />
-  <img src="distilloon-2.png" height="225" alt="App Screenshot" />
-  <img src="distilloon-3.png" height="225" alt="App Screenshot" />
+  <img src="distilloon-1.png" height="200" alt="App Screenshot" />
+  <img src="distilloon-2.png" height="200" alt="App Screenshot" />
+  <img src="distilloon-3.png" height="200" alt="App Screenshot" />
 </p>
+
+**🤖 Live Demo → [Distilloon](https://distilloon.ht55.dev)**
 
 * Tested on Firefox & Chrome. Safari is not fully supported at this moment 🙏 (e.g., the hand-crafted carousel may display as a static image instead of an animation).
 ---
