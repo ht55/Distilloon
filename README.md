@@ -9,6 +9,7 @@ their core meaning — surfaced as floating balloons carrying keywords and a sum
   <img src="distilloon-3.png" height="225" alt="App Screenshot" />
 </p>
 
+* Tested on Firefox & Chrome. Safari is not fully supported at this moment 🙏 (e.g., the hand-crafted carousel may display as a static image instead of an animation).
 ---
 
 ## Concept
