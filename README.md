@@ -9,9 +9,9 @@ their core meaning — surfaced as floating balloons carrying keywords and a sum
   <img src="distilloon-3.png" height="200" alt="App Screenshot" />
 </p>
 
-**🤖 Live Demo → [Distilloon](https://distilloon.ht55.dev)**
+**🤖 Watch Demo → [Distilloon](https://youtu.be/1QVGLIn6k_g)**
 
-* Tested on Firefox & Chrome. Safari is not fully supported at this moment 🙏 (e.g., the hand-crafted carousel may display as a static image instead of an animation).
+* This is a prototype demonstrating an AI-powered visual design system for video summarization. Production implementation would use YouTube Data API v3 with OAuth 2.0. 
 ---
 
 ## Concept
